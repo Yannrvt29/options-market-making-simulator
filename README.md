@@ -7,7 +7,7 @@ A learning project built one small milestone at a time. The aim is to understand
 Milestone 1: implement a European call price and delta under Black-Scholes with no dividends. The calculation functions deliberately raise `NotImplementedError` until Yann implements them. There is no simulator or trading performance yet.
 
 Local project: `P:\options-market-making-simulator`.
-GitHub: [Yannrvt29/options-market-making-simulator](https://github.com/Yannrvt29/options-market-making-simulator), owned by `Yannrvt29` (`yannravot@gmail.com`). The local `origin` remote points there. Git transfers changes through commits and pushes; it does not sync edits automatically. The `.venv` folder stays local.
+GitHub: [Yannrvt29/options-market-making-simulator](https://github.com/Yannrvt29/options-market-making-simulator), owned by `Yannrvt29` (`yannravot@gmail.com`). The local `origin` remote points there. Git transfers changes through commits and pushes; it does not sync edits automatically. The `.venv` folder stays local. The agent can publish through the connected GitHub app. Direct `git push` from this terminal still needs a local GitHub sign-in; the app connection does not sign in the Git command line.
 
 ## Setup (PowerShell)
 
